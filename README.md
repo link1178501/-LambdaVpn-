@@ -5,7 +5,14 @@
 
 ►Is the Vpn gonna be paid? Yes, but there is gonnable a premium with gigbit internet download and the free is gonne have 150mb/s max (NOTE that the speed of the vpn relies on the speed of your internet).
 
+►Current features
+
+  Kappa Ad Block:
+  Blocks All ads on the VPN
+
 ►Up and Comming features:
+
+  Kill-Switch
 
   Internet Speedtest
 

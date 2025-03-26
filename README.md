@@ -1,5 +1,5 @@
 # -LambdaVpn-
-►This is ΛLambdaVpnλ which is my very own Vpn that uses the Wireguard protocol and will hopefully have a "Onion over VPN" feature (im not gonna explain this you search it up yourself)
+►This is ΛLambdaVpnλ which is my very own Vpn that uses the Openvpn TCP protocol on port 443 and will hopefully have a "Onion over VPN" feature (im not gonna explain this you search it up yourself)
 
 ►What's next for Lambdavpn(ΛVPN) Makeing the AEGEIS Vpn Protocol. Its gonna be super secure encrypting bothe the user and the traffice from your router to the server masking iit in a impenitrable tunnel.
 

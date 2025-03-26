@@ -8,7 +8,7 @@
 ►Current features
 
   Kappa Ad Block:
-  Blocks All ads on the VPN
+  Blocks All ads when connected to the VPN
 
 ►Up and Comming features:
 

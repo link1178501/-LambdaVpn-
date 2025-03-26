@@ -23,3 +23,5 @@
   Onion over VPN
 
 Other programs: We(Me, Myself, and I) will (hopefully) make a password manager. Im talkig up to 32 charecter passords with !s, ?s, 1234567890s, <>:"{}|_+-=s, and random letter combinations. Check this article to see how hacker hack you account: https://www.reddit.com/r/explainlikeimfive/comments/18qaq8l/eli5_how_do_hackers_break_passwords/ 
+
+NOTICE: I do NOT own any of the the icons they are from thhe Lucide librairy: https://lucide.dev

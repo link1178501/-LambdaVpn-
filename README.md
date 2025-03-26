@@ -1,7 +1,7 @@
 # -LambdaVpn-
 ►This is ΛLambdaVpnλ which is my very own Vpn that uses the Openvpn TCP protocol on port 443 and will hopefully have a "Onion over VPN" feature (im not gonna explain this you search it up yourself)
 
-►What's next for Lambdavpn(ΛVPN) Makeing the AEGEIS Vpn Protocol. Its gonna be super secure encrypting bothe the user and the traffice from your router to the server masking iit in a impenitrable tunnel.
+►What's next for Lambdavpn(ΛVPN) Making the AEGEIS Vpn Protocol. Its gonna be super secure encrypting bothe the user and the traffice from your router to the server masking iit in a impenitrable tunnel.
 
 ►Is the Vpn gonna be paid? Yes, but there is gonnable a premium with gigbit internet download and the free is gonne have 150mb/s max (NOTE that the speed of the vpn relies on the speed of your internet).
 

@@ -106,7 +106,7 @@ const VPNClient = () => {
             className="flex flex-col items-center space-y-6 mt-20"
           >
             <img 
-              src="https://cdn.discordapp.com/attachments/1352592600695177266/1352592803372339231/logo.png?ex=67dfe536&is=67de93b6&hm=f8f4fc59140a7110db359e867a0a175b6199de9e52ec711f72a7b42fc8ed9523&" 
+              src="https://github.com/link1178501/-LambdaVpn-/blob/main/logo.png?raw=true" 
               alt="ΛVPN Logo" 
               className={`w-20 h-20 ${darkMode ? "invert" : ""}`} 
             />
